@@ -81,9 +81,6 @@ The Property Management System is a comprehensive software solution developed us
 ### Installation Steps
 1. Clone or download the project repository to your local machine.
 2. Navigate to the project directory:
-   ```bash
-   cd /path/to/Final-Project
-   ```
 3. Install dependencies (if applicable):
    ```bash
    pip install -r requirements.txt
