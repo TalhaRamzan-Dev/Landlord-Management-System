@@ -212,12 +212,3 @@ For assistance or inquiries, refer to the code comments and documentation within
 This project was developed as part of the CS50 Python course final project and is intended for educational purposes.
 
 ---
-
-### Changes Made
-1. **Removed Emojis**: All emojis were removed to maintain a professional tone.
-2. **Formalized Tone**: Adjusted language to be concise, professional, and consistent, avoiding informal phrases.
-3. **Improved Structure**: Reorganized sections for clarity and flow, ensuring a logical progression of information.
-4. **Enhanced Clarity**: Simplified descriptions while retaining all technical details and instructions.
-5. **Standardized Formatting**: Used consistent headings, bullet points, and code blocks for readability.
-6. **Removed Retro UI Subsection**: Integrated UI details into the "Technical Details" section to avoid redundancy and maintain focus on functionality.
-7. **Streamlined Instructions**: Condensed repetitive instructions (e.g., "Getting Started" and "Key Features Usage") for brevity without losing essential details.
